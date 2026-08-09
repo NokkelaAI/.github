@@ -1,0 +1,5 @@
+# Text files are stored with LF in the repository, whatever the editing platform does.
+* text=auto eol=lf
+# Images must never be touched by line-ending or diff heuristics.
+*.png binary
+*.svg text eol=lf

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="nokkela">
+  <title>nokkela</title>
+  <rect width="512" height="512" rx="96" ry="96" fill="#15110e"/>
+  <!-- Bars: neutral, warm off-white (CI text tone) -->
+  <rect x="112" y="128" width="56" height="256" fill="#f4ede7"/>
+  <rect x="344" y="128" width="56" height="256" fill="#f4ede7"/>
+  <!-- Crossbar / diagonal: copper -->
+  <polygon points="168,128 232,128 400,384 336,384" fill="#e8763c"/>
+  <!-- Accent dot: copper -->
+  <circle cx="418" cy="382" r="22" fill="#e8763c"/>
+</svg>
